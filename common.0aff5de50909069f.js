@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkChatsta=self.webpackChunkChatsta||[]).push([[592],{9019:(a,t,e)=>{e.d(t,{N:()=>u});const u={production:!0,api_url:"http://167.172.49.47:3006/api/v1"}}}]);
